@@ -9,7 +9,7 @@ I build **scalable, revenue-driven web and AI products** — from idea to produc
 My focus is on **real-world systems**, not toy projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuel-aloysius-m/)
-[![Website](https://img.shields.io/badge/Website-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sammyeltech.com/)
+[![Website](https://img.shields.io/badge/Website-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seltechai.com/)
 
 </div>
 
@@ -193,7 +193,7 @@ seeking: Remote, contract, consulting & startup opportunities
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-aloysius-m/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sammyeltech.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seltechai.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aloymascot117@gmail.com)
 
 </div>
